@@ -1,0 +1,19 @@
+.card-title {
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    font-family: 'Permanent Marker', cursive;
+}
+
+.card-img-overlay {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Remember, align-items and justify-content reverse when using flex-direcition: column*/
+    justify-content: center;
+}
+
+.my-button {
+    margin-top: 100px;
+    /* font-weight: 500; */
+    font-family: 'Permanent Marker', cursive;    
+}
